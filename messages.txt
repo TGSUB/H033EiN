@@ -29,3 +29,14 @@ vless://telegram-id-ArV2ray@5.161.23.207:443?mode=gun&security=reality&encryptio
 ℹ️ توضیحات تکمیلی🔺
 
 ❤️@ArV2ray
+ریلیتی تستی:
+لوکیشن:سوئد
+vless://telegram-id-ArV2ray@172.232.146.66:443?mode=gun&security=reality&encryption=none&pbk=Op9l7j2uU-qO0VF_UJ9zhn1D6WL_HQ_Q5Jg9J-kGHE4&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=55727ff2f8f59175#Reality-testi-All+%7C+%40ArV2ray
+
+‼️این کانفیگ فقط برا تسته پس کسایی که کانکشن پایدار میخوان به بقیه کانفیگا وصل شن
+
+📂آپدیت برنامه برای استفاده از ریلیتی☝
+
+ℹ️ توضیحات تکمیلی🔺
+
+❤️@ArV2ray
