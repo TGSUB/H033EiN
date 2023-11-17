@@ -89,3 +89,22 @@ vless://telegram-id-ArV2ray@5.161.200.19:443?mode=gun&security=reality&encryptio
 ℹ️ توضیحات تکمیلی🔺
 
 ❤️@ArV2ray
+🤍TLS1⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها +‌ همراه اول :💩💜🔵🔵🔵
+
+vless://1e99b7cb-9c41-47ea-b1e2-f82485d1d939@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#TLS1-All+%7C+%40ArV2ray
+
+📶تمامی نت ها به جز همراه اول :💩💜🔵
+
+vless://1e99b7cb-9c41-47ea-b1e2-f82485d1d939@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#TLS1-Irancell+%7C+%40ArV2ray
+
+‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
+
+🟣حتما allow insecure رو true کنید ☑️
+
+📁 برنامه های اجرا کننده☝
+
+ℹ️ توضیحات تکمیلی🔺
+❤️@ArV2ray
