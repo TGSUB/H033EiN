@@ -9,3 +9,9 @@ vless://telegram-id-ArV2ray@94.130.229.36:443?mode=gun&security=reality&encrypti
 vless://telegram-id-ArV2ray@94.130.229.36:443?mode=gun&security=reality&encryption=none&pbk=AIFezfjLeZO220n2vBtWwu0v9gAB5wW7Cvgaf4nVWhQ&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=f5361167#Reality1-All+%7C+%40ArV2ray
 
 @ArV2ray
+ArV2ray:
+ریلیتی تستی:
+
+vless://telegram-id-ArV2ray@88.198.184.49:443?mode=gun&security=reality&encryption=none&pbk=AIFezfjLeZO220n2vBtWwu0v9gAB5wW7Cvgaf4nVWhQ&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=f5361167#Reality1-All+%7C+%40ArV2ray
+
+@ArV2ray
