@@ -1,0 +1,6 @@
+
+ریلیتی تستی:
+
+vless://telegram-id-ArV2ray@94.130.229.36:443?mode=gun&security=reality&encryption=none&pbk=gGD7QeuJKHYZh_nzmZaGQDSNqnXXv3nzxYoZLU3693g&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=d57c90b9#Reality1-All+%7C+%40ArV2ray
+
+@ArV2ray
