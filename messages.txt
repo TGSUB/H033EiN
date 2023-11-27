@@ -15,3 +15,11 @@ ArV2ray:
 vless://telegram-id-ArV2ray@88.198.184.49:443?mode=gun&security=reality&encryption=none&pbk=AIFezfjLeZO220n2vBtWwu0v9gAB5wW7Cvgaf4nVWhQ&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=f5361167#Reality1-All+%7C+%40ArV2ray
 
 @ArV2ray
+ArV2ray:
+ArV2ray:
+ریلیتی تستی:
+
+vless://telegram-id-ArV2ray@128.140.9.93:443?mode=gun&security=reality&encryption=none&pbk=DWCrQeQ7q9I3RJkaWSrNOHJ-JSVthMZb9XsSWawoZ2U&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tikweb.ir&sid=5f7ab023#Reality1-All+%7C+%40ArV2ray
+
+‼️این کانفیگ تستی هست اگه کانکشن پایدار نیاز دارید بهش وصل نشید
+@ArV2ray
