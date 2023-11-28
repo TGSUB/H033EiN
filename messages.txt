@@ -12,3 +12,16 @@ vless://bf770fec-f8fc-409a-81a5-f6916725547a@tel.ArV2ray.host:443?path=%2F&secur
 
 🔸 توضیحات تکمیلی
 ✈️ @ArV2ray
+🤍TLS-WS⚡
+🌎Location:🇩🇪
+
+تمامی نت ها:💩💜🔵💩
+
+vless://bf770fec-f8fc-409a-81a5-f6916725547a@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#IOS-All+%7C+%40ArV2ray
+
+
+‼️این کانفیگ رو همه کلاینت های ایفون اجرا میشه ایفونی هایی که IOS +14 دارن با نصب برنامه streisand میتونن از بقیه کانفیگ های پرسرعت کانال استفاده کنن
+کلاینت پیشنهادی این کانفیگ(fair vpn)
+
+🔸 توضیحات تکمیلی
+✈️ @ArV2ray
