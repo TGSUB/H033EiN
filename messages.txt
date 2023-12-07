@@ -1,3 +1,7 @@
 
 ریلیتی تستی:
 vless://telegram-id-ArV2ray@172.104.249.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=znZzENlyHp-i-nfLtIei5otycn3OiKeOTglooOnppnc&sid=2ea812cf24f7b8f7&type=tcp&headerType=none#test
+ریلیتی تستی:
+vless://telegram-id-ArV2ray@139.162.173.211:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=nx3J-rJLvUNtJGmKvzDZugJZOs2GklcRfpfgM4uj9Hc&sid=cf949648bbd2d517&type=tcp&headerType=none#test
+
+‼️این کانفیگ فقط برای تسته،کسایی که کانشکن پایدار میخوان از بقیه کانفیگا استفاده کنن
