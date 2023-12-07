@@ -1,0 +1,3 @@
+
+ریلیتی تستی:
+vless://telegram-id-ArV2ray@172.104.249.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=znZzENlyHp-i-nfLtIei5otycn3OiKeOTglooOnppnc&sid=2ea812cf24f7b8f7&type=tcp&headerType=none#test
