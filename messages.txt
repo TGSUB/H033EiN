@@ -9,3 +9,16 @@ vless://telegram-id-ArV2ray@139.162.173.211:443?encryption=none&flow=xtls-rprx-v
 vless://telegram-id-ArV2ray@139.162.183.252:443?security=reality&encryption=none&pbk=nx3J-rJLvUNtJGmKvzDZugJZOs2GklcRfpfgM4uj9Hc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=cf949648bbd2d517#test
 
 ‼️این کانفیگ فقط برای تسته،کسایی که کانشکن پایدار میخوان از بقیه کانفیگای کانال استفاده کنن
+🤍TLS-WS⚡
+🌎Location:🇩🇪
+
+تمامی نت ها:💩💜🔵💩
+
+vless://e3bb04a4-1b21-4bc5-a45c-972e3a537b13@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.shop&type=ws&sni=ws.ArV2ray.shop#IOS-All+%7C+%40ArV2ray
+
+
+‼️این کانفیگ رو همه کلاینت های ایفون اجرا میشه ایفونی هایی که IOS +14 دارن با نصب برنامه streisand میتونن از بقیه کانفیگ های پرسرعت کانال استفاده کنن
+کلاینت پیشنهادی این کانفیگ(fair vpn)
+
+🔸 توضیحات تکمیلی
+✈️ @ArV2ray
