@@ -1,0 +1,3 @@
+
+ریلیتی تستی:(tcp)
+vless://telegram-id-ArV2ray@157.90.244.59:443?security=reality&encryption=none&pbk=olDe-6Ys8kV1CbzcDSHay8W06oGscb6t1StuOPaURUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zieh-fix.com&sid=5a2ab83368597566#test
