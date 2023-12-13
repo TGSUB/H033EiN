@@ -107,3 +107,9 @@ vless://67d57465-c09f-450c-c854-5390cb144d13@tel.ArV2ray.host:443?mode=gun&secur
 
 ℹ️ توضیحات تکمیلی🔺
 ❤️ @ArV2ray
+ریلیتی ایرانسل:
+vless://telegram-id-ArV2ray@162.55.174.161:8081?mode=gun&security=reality&encryption=none&pbk=td08lz4vMWi_wB4DSySI9Neuh0qF5LH_LYDdjg_VGCU&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=deb.debian.org&sid=d9d842de#Reality-All+%7C+%40ArV2ray
+
+‼️حتما برنامه اخرین نسخه باشه
+شبا که سرعت ایرانسل داغون میشه این کانفیگ کمی بهتر جواب میده
+@ArV2ray
