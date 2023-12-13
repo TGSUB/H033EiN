@@ -13,3 +13,17 @@ vless://9e42696c-4380-4b3a-8b44-db1538beae7d@tel.ArV2ray.host:443?path=%2F&secur
 
 🔸 توضیحات تکمیلی
 ✈️ @ArV2ray
+🤍TLS1⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها 1️⃣:💩💜🔵🔵🔵
+vless://d3ebb615-15fe-405d-a257-b9730eb309d2@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#TLS1-All1+%7C+%40ArV2ray
+
+‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
+
+🟣حتما allow insecure رو true کنید ☑️
+
+📁 برنامه های اجرا کننده☝
+
+ℹ️ توضیحات تکمیلی🔺
+❤️@ArV2ray
