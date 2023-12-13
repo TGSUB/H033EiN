@@ -113,3 +113,17 @@ vless://telegram-id-ArV2ray@162.55.174.161:8081?mode=gun&security=reality&encryp
 ‼️حتما برنامه اخرین نسخه باشه
 شبا که سرعت ایرانسل داغون میشه این کانفیگ کمی بهتر جواب میده
 @ArV2ray
+🤍TLS1⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها 1️⃣:💩💜🔵🔵🔵
+vless://d3ebb615-15fe-405d-a257-b9730eb309d2@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#TLS1-All1+%7C+%40ArV2ray
+
+‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
+
+🟣حتما allow insecure رو true کنید ☑️
+
+📁 برنامه های اجرا کننده☝
+
+ℹ️ توضیحات تکمیلی🔺
+❤️@ArV2ray
