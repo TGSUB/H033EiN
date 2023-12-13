@@ -98,3 +98,5 @@ vless://9d13194a-5b8a-4d5d-9aaf-59afd577117b@tel.ArV2ray.host:443?mode=gun&secur
 
 ℹ️ توضیحات تکمیلی🔺
 ❤️ @ArV2ray
+ریلیتی تستی همراه اول:
+vless://d621a818-7e30-4d9f-969b-6c518812996d@142.132.243.179:443?mode=gun&security=reality&encryption=none&pbk=nCfaiHnn6exotHhtg-EbhL2-XzKaDZ5EkhLiOW8Mchg&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=farsroid.com&sid=a985b73f#Reality_test-Hamrah
