@@ -1,0 +1,4 @@
+
+ریلیتی تستی:
+vless://telegram-id-ArV2ray@167.235.150.254:443?mode=gun&security=reality&encryption=none&pbk=t83-J2ZN8HutdUPmqt6yPOUlE5FFG0B_Ru6-TbfNRwA&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=deb.debian.org&sid=1786f597a2dce0f1#Reality-TESTI+%7C+%40ArV2ray
+@ArV2ray
