@@ -1,103 +1,96 @@
-
-ریلیتی تستی:
-vless://telegram-id-ArV2ray@167.235.150.254:443?mode=gun&security=reality&encryption=none&pbk=t83-J2ZN8HutdUPmqt6yPOUlE5FFG0B_Ru6-TbfNRwA&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=deb.debian.org&sid=1786f597a2dce0f1#Reality-TESTI+%7C+%40ArV2ray
-@ArV2ray
+ArV2ray, [12/24/2023 04:59 PM]
 🤍TLS1⚡
 🌎Location:🇩🇪
 
 📶تمامی نت ها :💩💜🔵🔵🔵
-vless://a13fbc9d-8ad2-4836-8819-06c396b2087d@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#TLS1-All+%7C+%40ArV2ray
+vless://2eae4a5d-08e7-41ad-9278-5dd005a424ad@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.shop#TLS1-All+%7C+%40ArV2ray
 
 ‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
 
-🟣حتما allow insecure رو true کنید ☑️
+🟣حتما allow insecure رو true کنید (https://t.me/ARv2ray/155) ☑️
 
-📁 برنامه های اجرا کننده☝
+📁 برنامه های اجرا کننده (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 ❤️@ArV2ray
+
+ArV2ray, [12/24/2023 05:03 PM]
 🤍TLS2⚡
 🌎Location:🇩🇪
 
 📶تمامی نت ها :💩💜🔵🔵🔵
-vless://e8d04fc4-555a-40d8-92cf-92ca573f476d@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.shop#TLS2-All+%7C+%40ArV2ray
+vless://a9428f91-c016-481a-98b1-d6eeaf533e97@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.shop#TLS2-All+%7C+%40ArV2ray
 
 ‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
 
-🟣حتما allow insecure رو true کنید ☑️
+🟣حتما allow insecure رو true کنید (https://t.me/ARv2ray/155) ☑️
 
-📁 برنامه های اجرا کننده☝
+📁 برنامه های اجرا کننده (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 ❤️ @ArV2ray
+
+ArV2ray, [12/24/2023 05:12 PM]
 🤍TLS3⚡
 🌎Location:🇫🇮
 
 📶تمامی نت ها :💩💜🔵🔵🔵
 
-vless://5bab17a3-0961-44d5-88d3-a46c48ab97db@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#TLS3-All+%7C+%40ArV2ray
+vless://4f3ab55e-bcdf-4f7a-8812-003f209473ac@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.shop#TLS3-All+%7C+%40ArV2ray
 
 ‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
 
-🟣حتما allow insecure رو true کنید ☑️
+🟣حتما allow insecure رو true کنید (https://t.me/ARv2ray/155) ☑️
 
-📁 برنامه های اجرا کننده☝
+📁 برنامه های اجرا کننده (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 ❤️ @ArV2ray
+
+ArV2ray, [12/24/2023 05:16 PM]
 🤍Reality1⚡
 🌎Location:🇩🇪
 
 📶تمامی نت ها :💩💜🔵🔵🔵
 
-vless://telegram-id-ArV2ray@78.46.135.92:443?mode=gun&security=reality&encryption=none&pbk=f2VMCg-h5n6WZlyajvAhCDCHeA5p1H0iNAKiVGQh8yE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=571ed73b#Reality1-All+%7C+%40ArV2ray
+vless://telegram-id-ArV2ray@128.140.9.91:443?mode=gun&security=reality&encryption=none&pbk=OHZN-QMWvgx4P7t61HB-v5OZDb40mi4wKfYudQ-d9TU&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=e7e966c7#Reality1-All+%7C+%40ArV2ray
 
 🚫کانفیگ های ریلیتی نیاز به نصب نسخه جدید ویتوری داره وگرنه وصل نمیشود❌
 
-📂آپدیت برنامه برای استفاده از ریلیتی☝
+📂آپدیت برنامه برای استفاده از ریلیتی (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
-
-❤️@ArV2ray
-🤍Reality1⚡
-🌎Location:🇩🇪
-
-📶تمامی نت ها :💩💜🔵🔵🔵
-
-vless://telegram-id-ArV2ray@78.46.135.92:443?mode=gun&security=reality&encryption=none&pbk=f2VMCg-h5n6WZlyajvAhCDCHeA5p1H0iNAKiVGQh8yE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=571ed73b#Reality1-All+%7C+%40ArV2ray
-
-🚫کانفیگ های ریلیتی نیاز به نصب نسخه جدید ویتوری داره وگرنه وصل نمیشود❌
-
-📂آپدیت برنامه برای استفاده از ریلیتی☝
-
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 
 ❤️@ArV2ray
+
+ArV2ray, [12/24/2023 05:17 PM]
 🤍Reality2⚡
 🌎Location:🇩🇪
 
 📶ایرانسل رایتل وایفای :💩💜
 
-vless://telegram-id-ArV2ray@162.55.37.113:443?mode=gun&security=reality&encryption=none&pbk=9N0pYe0hF3r9IWw5MgfPm_GOS8suTK3_RSxSYOKTWjE&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=f030f40f#Reality2-All+%7C+%40ArV2ray
+vless://telegram-id-ArV2ray@138.201.155.113:443?mode=gun&security=reality&encryption=none&pbk=A3-Agx7ozSGUnygo7mkUK_pu1pIwYnJQV7QDDVN3GEs&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=20a51c60#Reality2-All+%7C+%40ArV2ray
 
 🚫کانفیگ های ریلیتی نیاز به نصب نسخه جدید ویتوری داره وگرنه وصل نمیشود❌
 
-📂آپدیت برنامه برای استفاده از ریلیتی☝
+📂آپدیت برنامه برای استفاده از ریلیتی (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 
 ❤️@ArV2ray
+
+ArV2ray, [12/24/2023 05:20 PM]
 🤍TLS4⚡
 🌎Location:🇩🇪
 
 📶تمامی نت ها :💩💜🔵🔵🔵
-vless://70a8fbd9-c24b-4cc8-aa28-7e941be56e7b@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tls.ArV2ray.shop#TLS4-All+%7C+%40ArV2ray
+vless://70a8fbd9-c24b-4cc8-aa28-7e941be56e7b@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=sk.ArV2ray.shop#TLS4-All+%7C+%40ArV2ray
 
 ‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
 
-🟣حتما allow insecure رو true کنید ☑️
+🟣حتما allow insecure رو true کنید (https://t.me/ARv2ray/155) ☑️
 
-📁 برنامه های اجرا کننده☝
+📁 برنامه های اجرا کننده (https://t.me/ARv2ray/435)☝
 
-ℹ️ توضیحات تکمیلی🔺
+ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 ❤️ @ArV2ray
