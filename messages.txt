@@ -94,3 +94,9 @@ vless://70a8fbd9-c24b-4cc8-aa28-7e941be56e7b@tel.ArV2ray.host:443?mode=gun&secur
 
 ℹ️ توضیحات تکمیلی (https://t.me/ARv2ray/799)🔺
 ❤️ @ArV2ray
+
+ریلیتی تستی همراه اول و ایرانسل:
+vless://e768afc4-c6d9-4348-a046-733e9cb38017@195.201.133.122:443?mode=gun&security=reality&encryption=none&pbk=MTQf3xA1BGCbvZy3w6fLDs57uWiPs_Vbfbrv1EzcQX0&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=CNKIOeI.BaBAloni.ir&sid=5fe5520f#Reality-TESTi
+
+رایتل و وایفای بعید می‌دونم اوکی باشه
+کسایی که رایتل وایفای دارین به Reality 1 وصل بشین
