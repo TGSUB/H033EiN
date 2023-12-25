@@ -100,3 +100,17 @@ vless://e768afc4-c6d9-4348-a046-733e9cb38017@195.201.133.122:443?mode=gun&securi
 
 رایتل و وایفای بعید می‌دونم اوکی باشه
 کسایی که رایتل وایفای دارین به Reality 1 وصل بشین
+🤍TLS2⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها :💩💜🔵🔵🔵
+vless://50d2a277-022e-4b4f-a153-d88b7724fb0d@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.shop#TLS2-All+%7C+%40ArV2ray
+
+‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
+
+🟣حتما allow insecure رو true کنید ☑️
+
+📁 برنامه های اجرا کننده☝
+
+ℹ️ توضیحات تکمیلی🔺
+❤️ @ArV2ray
