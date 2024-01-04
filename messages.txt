@@ -13,3 +13,16 @@ vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?mode=gun&security=tls&encryptio
 ℹ️ توضیحات تکمیلی🔺
 
 ❤️@ArV2ray
+🤍TLS-WS⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها :💩💜🔵🔵🔵
+
+vless://644edbc5-61e2-4191-8db0-510166aa4a9a@www.ArV2ray.tech:443?path=%2F&security=tls&encryption=none&host=tag.ArV2ray.host&fp=chrome&type=ws&sni=tag.ArV2ray.host#TLS-WS-+%40ArV2ray
+
+
+‼️این کانفیگ رو همه کلاینت های ایفون اجرا میشه ایفونی هایی که IOS +14 دارن با نصب برنامه streisand میتونن از بقیه کانفیگ های پرسرعت کانال استفاده کنن
+کلاینت پیشنهادی این کانفیگ(fair vpn)
+
+🔸 توضیحات تکمیلی
+✈️ @ArV2ray
