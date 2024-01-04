@@ -26,3 +26,17 @@ vless://644edbc5-61e2-4191-8db0-510166aa4a9a@www.ArV2ray.tech:443?path=%2F&secur
 
 🔸 توضیحات تکمیلی
 ✈️ @ArV2ray
+🤍TLS3⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها :💩💜🔵🔵
+
+vless://telegram-id-ArV2ray@www.ArV2ray.tech:443?type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=tel.ArV2ray.host#TLS3-All%20%7C%20%40ArV2ray
+
+🚫کانفیگ های ریلیتی نیاز به نصب نسخه جدید ویتوری داره وگرنه وصل نمیشود❌
+
+📂آپدیت برنامه برای استفاده از ریلیتی☝
+
+ℹ️ توضیحات تکمیلی🔺
+
+❤️@ArV2ray
