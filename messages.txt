@@ -13,3 +13,18 @@ vless://telegram-id-ArV2ray@18.196.167.162:443?mode=gun&security=reality&encrypt
 ℹ️ توضیحات تکمیلی🔺
 
 ❤️@ArV2ray
+🤍TLS1⚡
+🌎Location:🇩🇪
+
+📶تمامی نت ها :💩💜🔵🔵
+
+vless://a3c7817a-0433-49e3-898f-ee3f993fd927@www.ArV2ray.tech:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=www.ArV2ray.host#TLS-All+%7C+%40ArV2ray
+
+‼️به خاطر یوزر بالا ممکنه پینگ نده ولی وصله😄
+
+🟣حتما allow insecure رو true کنید ☑️
+
+📁 برنامه های اجرا کننده☝
+
+ℹ️ توضیحات تکمیلی🔺
+❤️@ArV2ray
